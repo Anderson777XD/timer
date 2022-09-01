@@ -1,0 +1,112 @@
+body{
+   background: center #4a4747;
+}
+
+h1{
+    color: #ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h4{
+    color: #ffffff;
+}
+
+h2{
+    color: #ffffff;
+}
+
+
+div{
+    text-align: center;
+    background-color: #808080;
+}
+
+button{
+    height: 2.5em;
+    width: 5em;
+    border: none;
+    color: #ffffff;
+    margin: 2px;
+}
+
+button:hover{
+    cursor: pointer;
+    transition: ease-in 0.5s;
+    background-color: #656464;
+    color: #ffffff;
+    border-radius:8px;
+}
+
+.Feito{
+    text-align: center;
+    background-color: gray;
+    border-radius: 8px;
+    box-shadow: 0px 5px 20px;
+}
+
+.Feito:hover{
+    cursor: pointer;
+    transition: ease-in 0.5s;
+    background-color: #656464;
+    
+}
+
+
+
+.IniciarB{
+    background-color: rgb(45, 44, 44);
+    border-radius:8px;
+}
+
+.PausarB{
+    background-color: rgb(45, 44, 44);
+    border-radius:8px;
+}
+
+.PararB{
+    background-color: rgb(45, 44, 44);
+    border-radius:8px;
+}
+
+.Crono{
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 5px 5px 25px;
+}
+
+.Crono:hover{
+    cursor: pointer;
+    transition: ease-in 0.5s;
+    background-color: #656464;
+
+}
+
+
+.div{
+    margin-top: 15%;
+    width: 200px;
+    height: 150px;
+    margin-left: 45%;
+}
+
+.div2{
+    border-radius: 8px;
+    box-shadow: 0px 5px 20px;
+    width: 200px;
+    height: 150px;
+    
+
+}
+
+.div2:hover{
+    cursor: pointer;
+    
+}
+h1:hover{
+    cursor: pointer;
+    transition: ease-in 0.5s;
+    background-color: #525151;
+    border-radius: 8px;
+
+}
+
